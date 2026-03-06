@@ -9,7 +9,7 @@ env:
   LOCATION: northcentralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 556f6600-350a-46b4-ad82-a71a2c1b6256
-  WEBAPP-NAME: devops-webapp-northcentralus-804424061
+  WEBAPP-NAME: devops-webapp-northcentralus-2021012923
 
 jobs:
   #Build, test and publish .net web project in repository
